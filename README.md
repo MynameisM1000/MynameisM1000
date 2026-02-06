@@ -13,4 +13,4 @@ I'm an IT student passionate about **web development**, **Data Science**, and **
 ---
 
 ## 📫 Contact Me
-- Telegram: [@twstsss](https://t.me/twstsss) (finance & investments)  
+- Telegram: [@twstsss](https://t.me/twstsss)
