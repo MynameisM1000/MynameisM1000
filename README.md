@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**MynameisM1000/MynameisM1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student passionate about **web development**, **Data Science**, and **innovative technologies**. I enjoy building projects that combine programming skills and creativity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+**Languages:** Python, JavaScript, SQL, HTML, CSS  
+**Frameworks/Libraries:** React, PyQt  
+**Tools:** Git, GitHub, Data Visualization, APIs  
+**Interests:** Web technologies, Data Science, Finance, Biochemistry
+
+---
+
+## 📫 Contact Me
+- Telegram: [@twstsss](https://t.me/twstsss) (finance & investments)  
