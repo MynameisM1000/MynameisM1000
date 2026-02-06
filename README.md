@@ -8,7 +8,7 @@ I'm an IT student passionate about **web development**, **Data Science**, and **
 **Languages:** Python, JavaScript, SQL, HTML, CSS  
 **Frameworks/Libraries:** React, PyQt  
 **Tools:** Git, GitHub, Data Visualization, APIs  
-**Interests:** Web technologies, Data Science, Finance, Biochemistry
+**Interests:** Web technologies, Data Science
 
 ---
 
