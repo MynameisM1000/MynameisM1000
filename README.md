@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an IT student passionate about **web development**, **Data Science**, and **innovative technologies**. I enjoy building projects that combine programming skills and creativity.
+**web development**, **Data Science**, and **innovative technologies**.
 
 ---
 
